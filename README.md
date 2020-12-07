@@ -1,4 +1,6 @@
 # KManager
+
+https://kmanagerwebmvc.azurewebsites.net/
  
 Welcome to KManager! The all-in-one management application for K-Grocery stores across the nation.
 
